@@ -10,7 +10,7 @@ This is a simple website showcasing my mini projects. The website includes links
 
 ## Overview
 
-The website provides an overview of my mini projects, including a calculator, a to-do list, and a weather app. Each project is accessible via a link on the main page.
+The website provides an overview of my mini projects, including a personal page, a name card, and other. Each project is accessible via a link on the main page.
 
 ## Projects
 
