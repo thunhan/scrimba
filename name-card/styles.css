@@ -1,0 +1,49 @@
+.card {
+    background-image: url('background.png');
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    height: 300px;
+    border: 1px solid #222222;
+}
+
+img {
+    display: block;
+    margin: 10px 8px;
+}
+
+.left-div {
+    color: #222222;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.two-columns {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2px
+}
+
+.info-icons {
+    margin-top: 20px;
+}
+
+.info {
+    margin-top: 12px;
+}
+
+.right-div {
+    color: whitesmoke;
+    margin: 5px 8px;
+    text-align: center;
+}
+
+.align-right {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.barcode {
+    border: 3px solid whitesmoke;
+}
