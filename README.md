@@ -7,8 +7,6 @@ This is a simple website showcasing my mini projects. The website includes links
 - [Overview](#overview)
 - [Projects](#projects)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [License](#license)
 
 ## Overview
 
@@ -16,9 +14,9 @@ The website provides an overview of my mini projects, including a calculator, a 
 
 ## Projects
 
-- [Project 1: Calculator](project1.html)
-- [Project 2: To-Do List](project2.html)
-- [Project 3: Weather App](project3.html)
+- [Project 1: Personal Page](project1.html)
+- [Project 2: Name Card](project2.html)
+- [Project 3: TBD](project3.html)
 
 ## Technologies Used
 
