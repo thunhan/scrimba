@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eca1c1be-27c5-416b-902d-bc67e4cb6498/deploy-status)](https://app.netlify.com/sites/scrimba-mini-projects/deploys)
 # My Mini Projects
 
 This is a simple website showcasing my mini projects. The website includes links to individual project pages.
