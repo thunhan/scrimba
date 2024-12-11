@@ -36,6 +36,12 @@ a:hover {
     color: #007BFF;
 }
 
+.icon {
+    width: 40px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
 footer {
     text-align: center;
     padding: 1rem 0;
